@@ -31,12 +31,21 @@ PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2
   
 <br>
 
-### :test_tube: My Portfolio :
+### :clipboard: My Portfolio :
 <br>
 Hey! Check out the projects that I've already completed! https://stevecarvalho.github.io/stevecarvalho/
 <br>
 <br>
 <br>
+
+### :test_tube: My Publications :
+<br>
+Oh! And here is my contribution to scientific research : <br>
+https://pubmed.ncbi.nlm.nih.gov/?term=Dos-Santos+Carvalho+S&cauthor_id=31909712
+<br>
+<br>
+<br>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <br>
