@@ -32,6 +32,7 @@ PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2
 <br>
 
 ### :test_tube: My Portfolio :
+<br>
 Hey! Check out the projects that I've already completed! https://stevecarvalho.github.io/stevecarvalho/
 
 <br>
