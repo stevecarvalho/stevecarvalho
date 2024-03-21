@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNnOXcyajV2bXM2OXVhM3JmMjB4eWV1OGVzbGJpNHE4aGM4Nzl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif?cid=790b76113k6hfll3mfbyndwmlzg9qwsiw68fc8a1j82h6thn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/steve-carvalho-89b55a19/">
