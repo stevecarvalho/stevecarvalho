@@ -24,7 +24,7 @@ PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2
 
 - :chart_with_upwards_trend: I use SQL, Python & Pandas, and master various data visualization tools : PowerBI, Tableau & LookerStudio.
 
-- :zap: In my free time, I develop my technical skills (SQL, Python, Pandas, etc.) try to master new languages (Spanish, Italian, German and Greek).
+- :zap: In my free time, I develop my technical skills (SQL, Python, Pandas, etc.) and I try to master new languages (Spanish, Italian, German and Greek).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steve-carvalho-89b55a19/)
   
