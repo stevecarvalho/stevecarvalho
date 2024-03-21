@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif?cid=790b76113k6hfll3mfbyndwmlzg9qwsiw68fc8a1j82h6thn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/steve-carvalho-89b55a19/">
+  <a href="https://www.linkedin.com/in/steve-carvalho-89b55a19/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
