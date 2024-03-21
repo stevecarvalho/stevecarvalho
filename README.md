@@ -20,13 +20,13 @@
 ### :man_technologist: About Me :
 PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm54ZzdkM2N5cm9tZTR3M280eDl1YXVwMzJ2bjByaTRidHBxMHl6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="30">
 
-- :telescope: I’ve got a PhD in Neurosciences and I have just graduated as a Data Analyst. I'm thrilled to embark on this new journey and to start playing with your data!
+- :telescope: Ihave a PhD in Neurosciences and I have just graduated as a Data Analyst. I'm thrilled to embark on this new journey and to start playing with your data!
 
 - :chart_with_upwards_trend: I use SQL, Python & Pandas, and master various data visualization tools : PowerBI, Tableau & LookerStudio.
 
 - :zap: In my free time, I develop my technical skills (SQL, Python, Pandas, etc.) and I try to master new languages (Spanish, Italian, German and Greek).
 
-- :earth_africa:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steve-carvalho-89b55a19/)
+- :earth_africa:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steve-carvalho-89b55a19/?locale=en_US)
 
   
 <br>
