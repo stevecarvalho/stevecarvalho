@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm54ZzdkM2N5cm9tZTR3M280eDl1YXVwMzJ2bjByaTRidHBxMHl6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="30">
 
-- :telescope: Ihave a PhD in Neurosciences and I have just graduated as a Data Analyst. I'm thrilled to embark on this new journey and to start playing with your data!
+- :telescope: I have a PhD in Neurosciences and I have just graduated as a Data Analyst. I'm thrilled to embark on this new journey and to start playing with your data!
 
 - :chart_with_upwards_trend: I use SQL, Python & Pandas, and master various data visualization tools : PowerBI, Tableau & LookerStudio.
 
