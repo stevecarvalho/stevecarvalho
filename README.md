@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<br>
 
 ### :man_technologist: About Me :
 PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm54ZzdkM2N5cm9tZTR3M280eDl1YXVwMzJ2bjByaTRidHBxMHl6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="30">
@@ -32,10 +32,8 @@ PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2
 <br>
 
 ### :test_tube: My Portfolio :
-<br>
 Hey! Check out the projects that I've already completed! https://stevecarvalho.github.io/stevecarvalho/
 
-<br>
 <br>
 ### :hammer_and_wrench: Languages and Tools :
 <br>
