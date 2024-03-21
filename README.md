@@ -26,7 +26,9 @@ PhD in Neurosciences & DataAnalyst <img src="https://media.giphy.com/media/v1.Y2
 
 - :zap: In my free time, I develop my technical skills (SQL, Python, Pandas, etc.) and I try to master new languages (Spanish, Italian, German and Greek).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steve-carvalho-89b55a19/)
+- :earth_africa:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steve-carvalho-89b55a19/)
+
+- Hey! Check out the projects that I've already completed! (https://stevecarvalho.github.io/stevecarvalho/)
   
 <br>
 
