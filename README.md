@@ -41,7 +41,7 @@ Hey! Check out the projects that I've already completed! https://stevecarvalho.g
 ### :test_tube: My Publications :
 <br>
 Oh! And here is my contribution to scientific research : <br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Dos-Santos+Carvalho+S&cauthor_id=31909712" target="_blank">Click here!</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Dos-Santos+Carvalho+S&cauthor_id=31909712" onclick="window.open(this.href); return false;">Click here!</a>
 <br>
 <br>
 <br>
